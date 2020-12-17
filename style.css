@@ -1,0 +1,86 @@
+* {
+  box-sizing:border-box ;
+}
+
+body {
+margin: 0;
+background: #000;
+}
+
+.main{
+  width: 320px;
+  height: 620px;
+  margin: 100px auto 0;
+  border: 10px solid red;
+  font-size: 0;
+}
+
+.cell{
+  width: 30px;
+  height: 30px;
+  border: 1px solid red;
+  display: inline-block;
+}
+
+.movingCell{
+  background-color: green;
+}
+
+.fixedCell{
+  background-color: yellow;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* * {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: rgb(53, 45, 45);
+}
+
+.main {
+  width: 320px;
+  height: 620px;
+  margin: 100px auto 0;
+  border: 10px solid silver;
+  font-size: 0;
+}
+
+.cell {
+  width: 30px;
+  height: 30px;
+  border: 1px solid silver;
+  display: inline-block;
+}
+
+.movingCell {
+  background-color: rgb(255, 0, 0);
+}
+
+.fixedCell {
+  background-color: green;
+} */
